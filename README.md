@@ -10,7 +10,7 @@ Creation of Monster Game program using classes. The game will create monsters wi
 - Work with Array map() and forEach() methods along with the concept of a gaming loop
 - Gain more experience working with objects and arrays
 
-[Monster Game Sample Output](MonsterGameSampleOutput.png)
+![Screenshot](MonsterGameSampleOutput.png)
 [files for Monster Game](https://github.com/Jiah-design/cit281-p5)
 
 
